@@ -27,7 +27,7 @@
 
 - `pip install bs4`
 
-- `rm -rf khushi`
+- `rm -rf RANDOM`
 
 - `git clone https://github.com/SHOWROB-404/RANDOM.git`
 
